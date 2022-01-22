@@ -1,4 +1,4 @@
-<p><strong>Conference Events</strong></p>
+# Conferences
 <p>&nbsp;</p>
 <table>
 <tbody>
@@ -439,7 +439,7 @@
 </tbody>
 </table>
 <p><br /><br /><br /></p>
-<p><span style="font-weight: 400;">&nbsp;</span><strong>CTF Events</strong></p>
+# CTF Events</strong></p>
 <p><br /><br /></p>
 <table>
 <tbody>
