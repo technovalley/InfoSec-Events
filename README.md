@@ -18,7 +18,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">1.</span></p>
+<p><span style="font-weight: 400;">1</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">International Conference on Coding, Cryptology and Information Security ICCCIS</span></p>
