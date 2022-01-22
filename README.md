@@ -439,7 +439,9 @@
 </tbody>
 </table>
 <p><br /><br /><br /></p>
-# CTF Events</strong></p>
+
+# CTF Events
+
 <p><br /><br /></p>
 <table>
 <tbody>
