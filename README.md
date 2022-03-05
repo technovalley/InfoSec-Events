@@ -21,48 +21,6 @@
 <p><span style="font-weight: 400;">1</span></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">Cyber Intelligence Europe 2022</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">March 1 2022</span></p>
-</td>
-<td>
-<p><a href="https://intelligence-sec.com/events/cyber-intelligence-europe-2022/?ref=infosec-conferences.com"><span style="font-weight: 400;">https://intelligence-sec.com/events/cyber-intelligence-europe-2022/?ref=infosec-conferences.com</span></a></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><span style="font-weight: 400;">2</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Internet of Things India Expo 2022</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">March 3,2022</span></p>
-</td>
-<td>
-<p><a href="https://www.iotindiaexpo.com/"><span style="font-weight: 400;">https://www.iotindiaexpo.com/</span></a></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><span style="font-weight: 400;">3</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">CyberSecAsia Virtual Summit 2022</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">March 4 - 6 2022</span></p>
-</td>
-<td>
-<p><a href="https://cybersecasia.org/?ref=infosec-conferences.com"><span style="font-weight: 400;">https://cybersecasia.org/?ref=infosec-conferences.com</span></a></p>
-<br /><br /></td>
-</tr>
-<tr>
-<td>
-<p><span style="font-weight: 400;">4</span></p>
-</td>
-<td>
 <p><span style="font-weight: 400;">2022 IEEE 7th International Conference on Big Data Analytics (ICBDA)</span></p>
 </td>
 <td>
@@ -74,7 +32,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">5</span></p>
+<p><span style="font-weight: 400;">2</span></p>
 </td>
 <td><br />
 <p><span style="font-weight: 400;">Minimizing third party risk through effective identification, categorization, assessment and monitoring</span></p>
@@ -88,7 +46,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">6</span></p>
+<p><span style="font-weight: 400;">3</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">2022 International Conference on Frontiers of Information Technology</span></p>
@@ -102,7 +60,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">7</span></p>
+<p><span style="font-weight: 400;">4</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">17th International Conference on Cyber Warfare and Security (ICCWS)</span></p>
@@ -116,7 +74,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">8</span></p>
+<p><span style="font-weight: 400;">5</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">ICCWS 2022 &mdash; 17th International Conference on Cyber Warfare and Security</span></p>
@@ -130,7 +88,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">9</span></p>
+<p><span style="font-weight: 400;">6</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">Internet of Things India Expo 2022</span></p>
@@ -144,7 +102,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">10</span></p>
+<p><span style="font-weight: 400;">7</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">International Workshop on Information Management WSIM</span></p>
@@ -158,7 +116,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">11</span></p>
+<p><span style="font-weight: 400;">8</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">International Conference on Cyber Crime and Information Security ICCCIS</span></p>
@@ -172,7 +130,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">12</span></p>
+<p><span style="font-weight: 400;">9</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">International Conference on Cloud Cybersecurity ICCC</span></p>
@@ -186,7 +144,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">13</span></p>
+<p><span style="font-weight: 400;">10</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">International Conference on Information Technology and Internet of Things ITIOT</span></p>
@@ -200,7 +158,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">14</span></p>
+<p><span style="font-weight: 400;">11</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">Cyber Security Digital Summit: Cyber Automation 2022</span></p>
@@ -214,7 +172,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">15</span></p>
+<p><span style="font-weight: 400;">12</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">Big data technology warsaw summit</span></p>
@@ -228,7 +186,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">16</span></p>
+<p><span style="font-weight: 400;">13</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">4th Israeli Conference on Hardware and Side-Channel Attacks (ICHSA) 2022</span></p>
@@ -242,7 +200,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">17</span></p>
+<p><span style="font-weight: 400;">14</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">Global Digital Security Forum India (GDSF) 2022</span></p>
@@ -256,7 +214,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">18</span></p>
+<p><span style="font-weight: 400;">15</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">21st European Conference on Cyber Warfare and Security (ECCWS) UK</span></p>
@@ -270,7 +228,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">19</span></p>
+<p><span style="font-weight: 400;">16</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">Conf42 Quantum Computing</span></p>
@@ -308,20 +266,6 @@
 <p><span style="font-weight: 400;">1</span></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">D^3CTF 2022</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">04 March 2022</span></p>
-</td>
-<td>
-<p><a href="https://ctftime.org/event/1554"><span style="font-weight: 400;">https://ctftime.org/event/1554</span></a></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><span style="font-weight: 400;">2</span></p>
-</td>
-<td>
 <p><span style="font-weight: 400;">VishwaCTF 2022</span></p>
 </td>
 <td>
@@ -333,7 +277,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">3</span></p>
+<p><span style="font-weight: 400;">2</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">Basic CTF 2022 QUALS</span></p>
@@ -347,7 +291,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">4</span></p>
+<p><span style="font-weight: 400;">3</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">Insomni'hack 2022</span></p>
@@ -361,7 +305,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">5</span></p>
+<p><span style="font-weight: 400;">4</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">LINE CTF 2022</span></p>
@@ -375,7 +319,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">6</span></p>
+<p><span style="font-weight: 400;">5</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">Midnight Sun CTF 2022 Quals</span></p>
@@ -389,7 +333,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">7</span></p>
+<p><span style="font-weight: 400;">6</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">PlaidCTF 2022</span></p>
@@ -403,7 +347,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">8</span></p>
+<p><span style="font-weight: 400;">7</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">WPICTF 2022</span></p>
@@ -417,7 +361,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">9</span></p>
+<p><span style="font-weight: 400;">8</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">San Diego CTF 2022</span></p>
@@ -431,7 +375,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">10</span></p>
+<p><span style="font-weight: 400;">9</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">RuCTFE 2022</span></p>
@@ -445,7 +389,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">11</span></p>
+<p><span style="font-weight: 400;">10</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">SEETF 2022</span></p>
