@@ -15,7 +15,7 @@
             Place
         </td>
         <td>
-            Paid/free
+            Paid/Free
         </td>
         <td>
             Link
@@ -112,13 +112,13 @@
             SEPT-15
         </td>
         <td>
-            MUMBAI&nbsp;
+            MUMBAIPaid
         </td>
         <td>
             Free
         </td>
         <td>
-            https://tresconglobal.com/conferences/cyber-sec/india/free-pass-registration
+            https://tresconglobal.com/conferences/cyber-sec/india/Free-pass-registration
         </td>
     </tr>
     <tr>
@@ -126,10 +126,10 @@
             5
         </td>
         <td>
-            DEF CON&nbsp;
+            DEF CONPaid
         </td>
         <td>
-            August 11-14,&nbsp;
+            August 11-14,Paid
         </td>
         <td>
             Las Vegas, Nevada
@@ -155,7 +155,7 @@
             Orlando, FL
         </td>
         <td>
-            paid
+            Paid
         </td>
         <td>
             https://cyberdefenseconferences.com/
@@ -175,7 +175,7 @@
             Grand Hyatt Kochi
         </td>
         <td>
-            paid
+            Paid
         </td>
         <td>
             https://india.c0c0n.org/2022/registration
@@ -209,13 +209,13 @@
             Detroit Cybersecurity Conference
         </td>
         <td>
-            Thu. &nbsp;04Aug<br>
+            Thu. Paid04Aug<br>
         </td>
         <td>
             United state
         </td>
         <td>
-            free
+            Free
         </td>
         <td>
             https://dataconnectors.com/events/2022/august/detroit/#regform
@@ -232,10 +232,10 @@
             Thu. Sep 29<br>
         </td>
         <td>
-            USA&nbsp;
+            USAPaid
         </td>
         <td>
-            free&nbsp;
+            FreePaid
         </td>
         <td>
             https://dataconnectors.com/events/2022/september/dallas/
@@ -255,7 +255,7 @@
             USA
         </td>
         <td>
-            free
+            Free
         </td>
         <td>
             https://dataconnectors.com/events/2022/august/great-lakes/
@@ -266,7 +266,7 @@
             12
         </td>
         <td>
-            Vancouver Cybersecurity Conference&nbsp;
+            Vancouver Cybersecurity ConferencePaid
         </td>
         <td>
             Thu. Oct 06
@@ -275,7 +275,7 @@
             USA
         </td>
         <td>
-            Free&nbsp;
+            FreePaid
         </td>
         <td>
             https://dataconnectors.com/events/2022/october/vancouver/
@@ -335,7 +335,7 @@
             Colorado Springs, Colorado and online
         </td>
         <td>
-            paid
+            Paid
         </td>
         <td>
             https://events.infosecworldusa.com/2022event/begin
@@ -355,7 +355,7 @@
             Coimbatore, India
         </td>
         <td>
-            paid
+            Paid
         </td>
         <td>
             https://easychair.org/cfp/icngcs_2022
@@ -375,13 +375,14 @@
             Mumbai, India
         </td>
         <td>
-            paid
+            Paid
         </td>
         <td>
             https://www.gartner.com/en/conferences/apac/data-analytics-india/register
         </td>
     </tr>
-    </table>
+</table>
+
 
 
 
