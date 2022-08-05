@@ -1,3 +1,5 @@
+<!------------------------------------------------------------------------------------------------------------------------------------------------------>
+
 <h1>CONFERENCE EVENTS</h1>
 
 <table>
@@ -383,73 +385,317 @@
     </tr>
 </table>
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------------->
 
+<h1>pcoming CTF Events</h1>
 
-
-
-<p><br></p>
-<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:3pt;"><span style="font-size:26pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;</span><span style="font-size:26pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">CTF EVENTS</span></p>
-<p><br></p>
-<div align="left" dir="ltr" style="margin-left:0pt;">
-    <table style="border:none;border-collapse:collapse;">
-        <tbody>
-            <tr style="height:0pt;">
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Sl no:</span></p>
-                </td>
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Events Name</span></p>
-                </td>
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Date</span></p>
-                </td>
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;link</span></p>
-                </td>
-            </tr>
-            <tr style="height:0pt;">
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">1</span></p>
-                </td>
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:4pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">San Diego CTF 2022</span></p>
-                </td>
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">07 May 2022</span></p>
-                </td>
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><a href="https://ctftime.org/event/1495" style="text-decoration:none;"><span style="font-size:11pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">https://ctftime.org/event/1495</span></a></p><br>
-                </td>
-            </tr>
-            <tr style="height:0pt;">
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2</span></p>
-                </td>
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:4pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">RuCTFE 2022</span></p><br>
-                </td>
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">19 May 2022</span></p>
-                </td>
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><br>
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><a href="https://ctftime.org/event/1508" style="text-decoration:none;"><span style="font-size:11pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">https://ctftime.org/event/1508</span></a></p>
-                </td>
-            </tr>
-            <tr style="height:0pt;">
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">3</span></p>
-                </td>
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:4pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">SEETF 2022</span></p><br>
-                </td>
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">03 June 2022</span></p>
-                </td>
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><a href="https://ctftime.org/event/1543" style="text-decoration:none;"><span style="font-size:11pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">https://ctftime.org/event/1543</span></a></p><br>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-<p><br></p>
+<table>
+    <tr>
+        <td>
+            SI. No
+        </td>
+        <td>
+            Date
+        </td>
+        <td>
+            Event Name
+        </td>
+        <td>
+            Event Link
+        </td>
+    </tr>
+    <tr>
+        <td>
+            1
+        </td>
+        <td>
+            29/07/2022
+        </td>
+        <td>
+            TFC CTF 2022
+        </td>
+        <td>
+            https://ctf.thefewchosen.com/auth/login
+        </td>
+    </tr>
+    <tr>
+        <td>
+            2
+        </td>
+        <td>
+            30/07/2022
+        </td>
+        <td>
+            UIUCTF 2022
+        </td>
+        <td>
+            https://2022.uiuc.tf/register
+        </td>
+    </tr>
+    <tr>
+        <td>
+            3
+        </td>
+        <td>
+            30/07/2022
+        </td>
+        <td>
+            UACTF 2022
+        </td>
+        <td>
+            https://ctf.uactf.com.au/
+        </td>
+    </tr>
+    <tr>
+        <td>
+            4
+        </td>
+        <td>
+            30/07/2022
+        </td>
+        <td>
+            Aero CTF 2022
+        </td>
+        <td>
+            https://aero.baby/
+        </td>
+    </tr>
+    <tr>
+        <td>
+            5
+        </td>
+        <td>
+            31/07/2022 - 31/08/2022
+        </td>
+        <td>
+            Hackrocks Cyber Summer Camp
+        </td>
+        <td>
+            https://summercamp.hackrocks.com/
+        </td>
+    </tr>
+    <tr>
+        <td>
+            6
+        </td>
+        <td>
+            05/08/2022
+        </td>
+        <td>
+            Arab Security Cyber Wargames 2022 Qualifications
+        </td>
+        <td>
+            https://www.ctf-ascwargames.com/
+        </td>
+    </tr>
+    <tr>
+        <td>
+            7
+        </td>
+        <td>
+            06/08/2022 - 08/08/2022
+        </td>
+        <td>
+            corCTF 2022
+        </td>
+        <td>
+            https://ctf.cor.team/
+        </td>
+    </tr>
+    <tr>
+        <td>
+            8
+        </td>
+        <td>
+            10/08/2022 - 12/08/2022
+        </td>
+        <td>
+            T3N4CI0US CTF - Escape
+        </td>
+        <td>
+            https://t3n4ci0us.ractf.cloud/login
+        </td>
+    </tr>
+    <tr>
+        <td>
+            9
+        </td>
+        <td>
+            12/08/2022
+        </td>
+        <td>
+            SHELLCTF 2022
+        </td>
+        <td>
+            https://shellctf2022.games/
+        </td>
+    </tr>
+    <tr>
+        <td>
+            10
+        </td>
+        <td>
+            12/08/2022
+        </td>
+        <td>
+            DEF CON CTF 2022
+        </td>
+        <td>
+            https://nautilus.institute/
+        </td>
+    </tr>
+    <tr>
+        <td>
+            11
+        </td>
+        <td>
+            24/08/2022
+        </td>
+        <td>
+            CTFZone 2022
+        </td>
+        <td>
+            https://ctf.bi.zone/
+        </td>
+    </tr>
+    <tr>
+        <td>
+            12
+        </td>
+        <td>
+            25/08/2022
+        </td>
+        <td>
+            HITB SECCONF CTF 2022
+        </td>
+        <td>
+            https://conference.hitb.org/hitbsecconf2022sin/capture-the-flag/
+        </td>
+    </tr>
+    <tr>
+        <td>
+            13
+        </td>
+        <td>
+            26/08/2022 - 28/08/2022
+        </td>
+        <td>
+            MapleCTF 2022
+        </td>
+        <td>
+            https://ctf.maplebacon.org/
+        </td>
+    </tr>
+    <tr>
+        <td>
+            14
+        </td>
+        <td>
+            23/09/2022
+        </td>
+        <td>
+            DownUnderCTF 2022
+        </td>
+        <td>
+            https://downunderctf.com/
+        </td>
+    </tr>
+    <tr>
+        <td>
+            15
+        </td>
+        <td>
+            30/09/2022
+        </td>
+        <td>
+            SekaiCTF 2022
+        </td>
+        <td>
+            https://projectsekaictf.1a23.studio/
+        </td>
+    </tr>
+    <tr>
+        <td>
+            16
+        </td>
+        <td>
+            07/10/2022
+        </td>
+        <td>
+            Space Grand Challenge
+        </td>
+        <td>
+            https://cci.calpoly.edu/events/sgc-2022
+        </td>
+    </tr>
+    <tr>
+        <td>
+            17
+        </td>
+        <td>
+            08/10/2022
+        </td>
+        <td>
+            CyberSecurityRumble CTF
+        </td>
+        <td>
+            https://cybersecurityrumble.de/
+        </td>
+    </tr>
+    <tr>
+        <td>
+            18
+        </td>
+        <td>
+            14/10/2022
+        </td>
+        <td>
+            ASIS CTF Quals 2022
+        </td>
+        <td>
+            https://asisctf.com/
+        </td>
+    </tr>
+    <tr>
+        <td>
+            19
+        </td>
+        <td>
+            14/10/20
+        </td>
+        <td>
+            DEADFACE CTF
+        </td>
+        <td>
+            https://ctf.deadface.io/
+        </td>
+    </tr>
+    <tr>
+        <td>
+            20
+        </td>
+        <td>
+            04/11/2022
+        </td>
+        <td>
+            KalmarCTF 2022
+        </td>
+        <td>
+            https://2022.kalmarc.tf/
+        </td>
+    </tr>
+    <tr>
+        <td>
+            21
+        </td>
+        <td>
+            17/11/2022
+        </td>
+        <td>
+            m0leCon CTF 2022 (offline)
+        </td>
+        <td>
+            https://m0lecon.it/
+        </td>
+    </tr>
+</table>
