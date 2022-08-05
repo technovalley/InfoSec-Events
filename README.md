@@ -5,22 +5,22 @@
 <table>
     <tr>
         <td>
-            SL NO
+            <h3>SL NO</h3>
         </td>
         <td>
-            Conference Name
+            <h3>Conference Name</h3>
         </td>
         <td>
-            Date
+            <h3>Date</h3>
         </td>
         <td>
-            Place
+            <h3>Place</h3>
         </td>
         <td>
-            Paid/Free
+            <h3>Paid/Free</h3>
         </td>
         <td>
-            Link
+            <h3>Link</h3>
         </td>
     </tr>
     <tr>
@@ -237,7 +237,7 @@
             USAPaid
         </td>
         <td>
-            FreePaid
+            Free &Paid
         </td>
         <td>
             https://dataconnectors.com/events/2022/september/dallas/
@@ -277,7 +277,7 @@
             USA
         </td>
         <td>
-            FreePaid
+            Free &Paid
         </td>
         <td>
             https://dataconnectors.com/events/2022/october/vancouver/
@@ -387,21 +387,21 @@
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<h1>pcoming CTF Events</h1>
+<h1>UPCOMING CTF EVENTS</h1>
 
 <table>
     <tr>
         <td>
-            SI. No
+            <h3>SI. No</h3>
         </td>
         <td>
-            Date
+            <h3>Date</h3>
         </td>
         <td>
-            Event Name
+            <h3>Event Name</h3>
         </td>
         <td>
-            Event Link
+            <h3>Event Link</h3>
         </td>
     </tr>
     <tr>
