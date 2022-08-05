@@ -1,26 +1,26 @@
-<!------------------------------------------------------------------------------------------------------------------------------------------------------>
+<!----------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<h1>CONFERENCE EVENTS</h1>
+<h1 align="center">CONFERENCE EVENTS</h1>
 
 <table>
     <tr>
         <td>
-            <h3>SL NO</h3>
+            <h3  align="center">SL NO</h3>
         </td>
         <td>
-            <h3>Conference Name</h3>
+            <h3  align="center">Conference Name</h3>
         </td>
         <td>
-            <h3>Date</h3>
+            <h3  align="center">Date</h3>
         </td>
         <td>
-            <h3>Place</h3>
+            <h3  align="center">Place</h3>
         </td>
         <td>
-            <h3>Paid/Free</h3>
+            <h3  align="center">Paid/Free</h3>
         </td>
         <td>
-            <h3>Link</h3>
+            <h3  align="center">Link</h3>
         </td>
     </tr>
     <tr>
@@ -387,21 +387,21 @@
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<h1>UPCOMING CTF EVENTS</h1>
+<h1 align="center">UPCOMING CTF EVENTS</h1>
 
 <table>
     <tr>
         <td>
-            <h3>SI. No</h3>
+            <h3  align="center">SI. No</h3>
         </td>
         <td>
-            <h3>Date</h3>
+            <h3  align="center">Date</h3>
         </td>
         <td>
-            <h3>Event Name</h3>
+            <h3  align="center">Event Name</h3>
         </td>
         <td>
-            <h3>Event Link</h3>
+            <h3  align="center">Event Link</h3>
         </td>
     </tr>
     <tr>
