@@ -8,6 +8,26 @@
             01
         </td>
         <td>
+            Gartner Data & Analytics Summit
+        </td>
+        <td>
+            19/09/22 - 20/09/22
+        </td>
+        <td>
+            Mumbai, India 
+        </td>
+        <td>
+            Paid
+        </td>
+        <td>
+            https://www.gartner.com/en/conferences/apac/data-analytics-india/register
+        </td>
+    </tr>
+    <tr>
+        <td>
+            02
+        </td>
+        <td>
             Global Cyber Conference (Zurich)<br><br>
         </td>
         <td>
@@ -25,7 +45,7 @@
     </tr>
     <tr>
         <td>
-            02
+            03
         </td>
         <td>
             InfoSec World<br>
@@ -62,12 +82,6 @@
         </td>
         <td>
             Mumbai, India
-        </td>
-        <td>
-            Paid
-        </td>
-        <td>
-            https://www.gartner.com/en/conferences/apac/data-analytics-india/register
         </td>
     </tr>
         <td>
