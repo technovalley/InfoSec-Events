@@ -51,7 +51,7 @@
             Gartner Data &amp; Analytics Summit<br><br>
         </td>
         <td>
-            19 &ndash; 20 September 2022<br>
+            19/09/22 - 20/09/22
         </td>
         <td>
             Mumbai, India
