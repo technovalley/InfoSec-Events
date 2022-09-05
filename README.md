@@ -90,205 +90,8 @@
 <h1 align="center">UPCOMING CTF EVENTS</h1>
 
 <table>
-    <tr>
         <td>
-            <h3  align="center">SI. No</h3>
-        </td>
-        <td>
-            <h3  align="center">Date</h3>
-        </td>
-        <td>
-            <h3  align="center">Event Name</h3>
-        </td>
-        <td>
-            <h3  align="center">Event Link</h3>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            1
-        </td>
-        <td>
-            29/07/2022
-        </td>
-        <td>
-            TFC CTF 2022
-        </td>
-        <td>
-            https://ctf.thefewchosen.com/auth/login
-        </td>
-    </tr>
-    <tr>
-        <td>
-            2
-        </td>
-        <td>
-            30/07/2022
-        </td>
-        <td>
-            UIUCTF 2022
-        </td>
-        <td>
-            https://2022.uiuc.tf/register
-        </td>
-    </tr>
-    <tr>
-        <td>
-            3
-        </td>
-        <td>
-            30/07/2022
-        </td>
-        <td>
-            UACTF 2022
-        </td>
-        <td>
-            https://ctf.uactf.com.au/
-        </td>
-    </tr>
-    <tr>
-        <td>
-            4
-        </td>
-        <td>
-            30/07/2022
-        </td>
-        <td>
-            Aero CTF 2022
-        </td>
-        <td>
-            https://aero.baby/
-        </td>
-    </tr>
-    <tr>
-        <td>
-            5
-        </td>
-        <td>
-            31/07/2022 - 31/08/2022
-        </td>
-        <td>
-            Hackrocks Cyber Summer Camp
-        </td>
-        <td>
-            https://summercamp.hackrocks.com/
-        </td>
-    </tr>
-    <tr>
-        <td>
-            6
-        </td>
-        <td>
-            05/08/2022
-        </td>
-        <td>
-            Arab Security Cyber Wargames 2022 Qualifications
-        </td>
-        <td>
-            https://www.ctf-ascwargames.com/
-        </td>
-    </tr>
-    <tr>
-        <td>
-            7
-        </td>
-        <td>
-            06/08/2022 - 08/08/2022
-        </td>
-        <td>
-            corCTF 2022
-        </td>
-        <td>
-            https://ctf.cor.team/
-        </td>
-    </tr>
-    <tr>
-        <td>
-            8
-        </td>
-        <td>
-            10/08/2022 - 12/08/2022
-        </td>
-        <td>
-            T3N4CI0US CTF - Escape
-        </td>
-        <td>
-            https://t3n4ci0us.ractf.cloud/login
-        </td>
-    </tr>
-    <tr>
-        <td>
-            9
-        </td>
-        <td>
-            12/08/2022
-        </td>
-        <td>
-            SHELLCTF 2022
-        </td>
-        <td>
-            https://shellctf2022.games/
-        </td>
-    </tr>
-    <tr>
-        <td>
-            10
-        </td>
-        <td>
-            12/08/2022
-        </td>
-        <td>
-            DEF CON CTF 2022
-        </td>
-        <td>
-            https://nautilus.institute/
-        </td>
-    </tr>
-    <tr>
-        <td>
-            11
-        </td>
-        <td>
-            24/08/2022
-        </td>
-        <td>
-            CTFZone 2022
-        </td>
-        <td>
-            https://ctf.bi.zone/
-        </td>
-    </tr>
-    <tr>
-        <td>
-            12
-        </td>
-        <td>
-            25/08/2022
-        </td>
-        <td>
-            HITB SECCONF CTF 2022
-        </td>
-        <td>
-            https://conference.hitb.org/hitbsecconf2022sin/capture-the-flag/
-        </td>
-    </tr>
-    <tr>
-        <td>
-            13
-        </td>
-        <td>
-            26/08/2022 - 28/08/2022
-        </td>
-        <td>
-            MapleCTF 2022
-        </td>
-        <td>
-            https://ctf.maplebacon.org/
-        </td>
-    </tr>
-    <tr>
-        <td>
-            14
+            01
         </td>
         <td>
             23/09/2022
@@ -302,7 +105,7 @@
     </tr>
     <tr>
         <td>
-            15
+            02
         </td>
         <td>
             30/09/2022
@@ -316,7 +119,7 @@
     </tr>
     <tr>
         <td>
-            16
+            03
         </td>
         <td>
             07/10/2022
@@ -330,7 +133,7 @@
     </tr>
     <tr>
         <td>
-            17
+            04
         </td>
         <td>
             08/10/2022
@@ -344,7 +147,7 @@
     </tr>
     <tr>
         <td>
-            18
+            05
         </td>
         <td>
             14/10/2022
@@ -358,7 +161,7 @@
     </tr>
     <tr>
         <td>
-            19
+            06
         </td>
         <td>
             14/10/2022
@@ -372,7 +175,7 @@
     </tr>
     <tr>
         <td>
-            20
+            07
         </td>
         <td>
             04/11/2022
@@ -386,7 +189,7 @@
     </tr>
     <tr>
         <td>
-            21
+            08
         </td>
         <td>
             17/11/2022
