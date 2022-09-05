@@ -48,26 +48,6 @@
             03
         </td>
         <td>
-            Second International Conference on Next Generation Computing Systems
-        </td>
-        <td>
-            Aug 15, 2022
-        </td>
-        <td>
-            Coimbatore, India
-        </td>
-        <td>
-            Paid
-        </td>
-        <td>
-            https://easychair.org/cfp/icngcs_2022
-        </td>
-    </tr>
-    <tr>
-        <td>
-            04
-        </td>
-        <td>
             Gartner Data &amp; Analytics Summit<br><br>
         </td>
         <td>
