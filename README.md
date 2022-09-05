@@ -11,7 +11,7 @@
             Global Cyber Conference (Zurich)<br><br>
         </td>
         <td>
-            September 22-23
+            22/09/22 - 23/09/22
         </td>
         <td>
             Zurich, Switzerland
@@ -31,7 +31,7 @@
             InfoSec World<br>
         </td>
         <td>
-            September 26-28
+            26/09/22 - 28/09/22
         </td>
         <td>
             Colorado Springs, Colorado and online
