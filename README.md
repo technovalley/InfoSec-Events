@@ -43,9 +43,16 @@
             https://events.infosecworldusa.com/2022event/begin
         </td>
     </tr>
+</table>
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<h1 align="center">UPCOMING CTF EVENTS</h1>
+
+<table>
     <tr>
         <td>
-            03
+            01
         </td>
         <td>
             Gartner Data &amp; Analytics Summit<br><br>
@@ -63,15 +70,8 @@
             https://www.gartner.com/en/conferences/apac/data-analytics-india/register
         </td>
     </tr>
-</table>
-
-<!----------------------------------------------------------------------------------------------------------------------------------------------------->
-
-<h1 align="center">UPCOMING CTF EVENTS</h1>
-
-<table>
         <td>
-            01
+            02
         </td>
         <td>
             23/09/2022
@@ -85,7 +85,7 @@
     </tr>
     <tr>
         <td>
-            02
+            03
         </td>
         <td>
             30/09/2022
