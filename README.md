@@ -1,6 +1,6 @@
 ## CTF EVENTS
 
-| Event | Date | Link to Register |
+| Event | Link to Register |
 | ----------------- | ------------------------------------------------------------------ |
 | INTENT CTF 2022 | https://intentsummit.org/
 | X-MAS CTF 2022 | https://xmas.htsp.ro/
