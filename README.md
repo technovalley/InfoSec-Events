@@ -25,8 +25,8 @@
 
 ## Upcoming Conference
 
-|    SI . No        | Name                                                               | Date     | Location  | Paid/Free | Link to register |
-| ----------------- | ------------------------------------------------------------------ |----------| ----------| ----------| -----------------| 
+|    SI . No        | Name                                            | Date     | Location  | Paid/Free | Link to register |
+| ----------------- | ----------------------------------------------- |----------| ----------| ----------| -----------------| 
 |1|	International Conference on Advanced Computing	| Chennai	| 14 Dec - 16 Dec 2022	 | Free	 |http://www.icoac.mitindia.edu/|										
 |2|	Indian Control Conference	| IIT Madras Research Park, Chennai,	| 14 Dec - 16 Dec 2022 	| Paid	|https://controlsociety.org/icc/|										
 |3|	Global Intellectual Property (IP) ConfEx Bangalore 2022	| Bangalore Urban, India	| 17 Dec 2022	| Free	| https://www.events4sure.com/physicalevents
