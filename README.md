@@ -16,3 +16,4 @@
 | LA CTF 2023| https://lactf.uclaacm.com/
 | pbctf 2023 | https://ctf.perfect.blue/
 | WPICTF 2023 | https://ctf.wpictf.xyz/
+| Line CTF 2023 | https://linectf.me/
