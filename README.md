@@ -44,8 +44,8 @@
 |14|International Conference on Cybersecurity and Safety	|Spain	| 04 Mar - 05 Mar 2023	| Paid 	| https://waset.org/cybersecurity-and-safety-conference-in-march-2023-in-barcelona|
 |15|International Conference on Cyber Security and Computer Engineering 	| Brazil	| 04 Mar - 05 Mar 2023	| Paid 	| https://waset.org/cyber-security-and-computer-engineering-conference-in-march-2023-in-rio-de-janeiro|
 |16|Cybersecurity Summit: Bengaluru	| Bengaluru	| 12 April -13 April 2023	| Free	| https://ismg.events/summit/429334|
-|17|International Conference	 | Ernakulam,India	| 22 Apr 2023	 | Paid 	| http://iraj.in/Conference/12736/ICBDICSIT/call|
-|18|International Conference 	| Munnar, Kerala	| 15 May 2023	| Paid 	| iraj.in/Conference/12519/ICBDICSIT/|
+|17|International Conference  Big Data, IoT, Cyber Security and Information Technology	 | Ernakulam,India	| 22 Apr 2023	 | Paid 	| http://iraj.in/Conference/12736/ICBDICSIT/call|
+|18|International Conference Big Data, IoT, Cyber Security and Information Technology 	| Munnar, Kerala	| 15 May 2023	| Paid 	| iraj.in/Conference/12519/ICBDICSIT/|
 |19|SANS India	| New Delhi	| 15 May –20 May 2023	| Free	|https://www.sans.org/cyber-security-training-events/India-May-2023/|
 
 
