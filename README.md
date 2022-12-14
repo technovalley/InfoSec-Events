@@ -39,8 +39,8 @@
 |9|Nigeria Cybersecurity Summit 	| Nigeria	| 06 Feb - 07 Feb 2023	| Paid 	| https://nigeriacybersecuritysummit.com/ | 
 |10|International Conference on Cyberlaw, Cybersecurity and Cybercrime 	|Portugal	| 08 Feb - 09 Feb 2023	| Paid 	| https://waset.org/cyberlaw-cybersecurity-and-cybercrime-conference-in-february-2023-in-lisbon|
 |11|International Conference on Cybersecurity and Privacy 	| Malaysia	|11 Feb - 12 Feb 2023	| Paid 	| https://waset.org/cybersecurity-and-privacy-conference-in-february-2023-in-kuala-lumpur|
-|12|International Conference	| Munnar,India	| 15 Feb 2023	|Paid 	| iraj.in/Conference/13359/ICBDICSIT/contactus| 
-|13|International Conference	| Munnar,India 	| 20 Feb 2023	| Paid 	| iraj.in/Conference/13317/ICBDICSIT/| 
+|12|International Conference  Big Data, IoT, Cyber Security and Information Technology	| Munnar,India	| 15 Feb 2023	|Paid 	| iraj.in/Conference/13359/ICBDICSIT/contactus| 
+|13|International Conference  Big Data, IoT, Cyber Security and Information Technology	| Munnar,India 	| 20 Feb 2023	| Paid 	| iraj.in/Conference/13317/ICBDICSIT/| 
 |14|International Conference on Cybersecurity and Safety	|Spain	| 04 Mar - 05 Mar 2023	| Paid 	| https://waset.org/cybersecurity-and-safety-conference-in-march-2023-in-barcelona|
 |15|International Conference on Cyber Security and Computer Engineering 	| Brazil	| 04 Mar - 05 Mar 2023	| Paid 	| https://waset.org/cyber-security-and-computer-engineering-conference-in-march-2023-in-rio-de-janeiro|
 |16|Cybersecurity Summit: Bengaluru	| Bengaluru	| 12 April -13 April 2023	| Free	| https://ismg.events/summit/429334|
