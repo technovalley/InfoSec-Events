@@ -2,14 +2,11 @@
 
 |   SI . No         | Name                                 | Date     | Location  | Paid/Free | Link to register |
 | ----------------- | -------------------------------------|----------| ----------| ----------| -----------------|
-|1|LA CTF 2023	 | 11 Feb -12 Feb 2023	 | Online	| Free	| https://lactf.uclaacm.com/ | 
-|2|pbctf 2023	 | 18 Feb -20 Feb 2023	| Online	| Free	| https://ctf.perfect.blue/ |
-|3|WPICTF 2023	| 24 Feb -26 Feb 2023	| Online	| Free	| https://ctf.wpictf.xyz/ | 
-|4|LINE CTF 2023	| 25 Mar -26 Mar 2023	| Online	| Free	| https://linectf.me/ |
-|5|Wicked6: 2023 Women's Global Cyber League	|30 Mar -31 Mar 2023 | 	Online | 	Free	| https://wicked6.com/ |
-|6| PlaidCTF 2023	| 14 Apr -16 Apr 2023	| Online	| Free | 	https://plaidctf.com/ |
-|7| ostctf 2023	| 06 May -06 May 2023	| Online	|Free | 	https://cybersecuritydays.ch/capture-the-flag/ |
-|8|SEETF 2023	| 03 Jun -04 Jun 2023	| Online	| Free	| https://seetf.sg/seetf/ |
+|1|LINE CTF 2023	| 25 Mar -26 Mar 2023	| Online	| Free	| https://linectf.me/ |
+|2|Wicked6: 2023 Women's Global Cyber League	|30 Mar -31 Mar 2023 | 	Online | 	Free	| https://wicked6.com/ |
+|3| PlaidCTF 2023	| 14 Apr -16 Apr 2023	| Online	| Free | 	https://plaidctf.com/ |
+|4| ostctf 2023	| 06 May -06 May 2023	| Online	|Free | 	https://cybersecuritydays.ch/capture-the-flag/ |
+|5|SEETF 2023	| 03 Jun -04 Jun 2023	| Online	| Free	| https://seetf.sg/seetf/ |
 
 
 ## Upcoming Conference
