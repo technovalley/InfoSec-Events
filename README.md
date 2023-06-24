@@ -2,7 +2,8 @@
 
 |   SI . No         | Name                                 | Date     | Location  | Paid/Free | Link to register |
 | ----------------- | -------------------------------------|----------| ----------| ----------| -----------------|
-|1| ostctf 2023	| 06 May -06 May 2023	| Online	|Free | 	https://cybersecuritydays.ch/capture-the-flag/ |
+|1|AltayCTF 2023 |	25 June - 25 June 2023 |	On-Site	| Free| 	https://altayctf.ru/
+|1|AltayCTF 2023| 06 May -06 May 2023	| Online	|Free | 	https://cybersecuritydays.ch/capture-the-flag/ |
 |2|SEETF 2023	| 03 Jun -04 Jun 2023	| Online	| Free	| https://seetf.sg/seetf/ |
 
 
