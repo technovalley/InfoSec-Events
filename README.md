@@ -1,6 +1,6 @@
  ## Upcoming CTF Events
 
-|   SI . No         | Name                                 | Date           | Location  | Paid/Free | Link to register |
+|   SI . No         | Name                                | Date             | Location  | Paid/Free | Link to register |
 | ----------------- | -------------------------------------|----------| ----------| ----------| -----------------|
 |1|AltayCTF 2023 |	25 June - 25 June 2023 |	On-Site	| Free |	https://altayctf.ru/|
 |2|BSidesTLV 2023 CTF	| 26 June - 28 June 2023| 	Online	| Free |	https://bsidestlv.com/ctf/2023/|
