@@ -19,7 +19,7 @@
 |15|Bauhinia CTF 2023| 	19 Aug. - 21 Aug. 2023	| Online	| Free 	| https://b6a.black/| 
 |16|Midnight Sun CTF 2023 Finals	| 19 Aug - 20 Aug. 2023	| Offline | 	Free | 	https://midnightsunctf.com/| 
 |17|SekaiCTF 2023 | 25 Aug. - 27 Aug. 2023 | 	On-line	| Free 	| https://ctf.sekai.team/| 
-|18|DownUnderCTF 2023 | 	01 Sept - 03 Sept. 2023	Online	| Free 	| https://play.duc.tf/| 
+|18|DownUnderCTF 2023 | 	01 Sept - 03 Sept. 2023	| Online	| Free 	| https://play.duc.tf/| 
 |19|CakeCTF 2023	| 02 Sept - 03 Sept. 2023	| Online | 	Free | 	https://cakectf.com/|
 |20|SECCON CTF 2023 Quals	| 16 Sept - 17 Sept. 2023	| Online	| Free 	| https://www.seccon.jp/2023/|
 |21|ASIS CTF Quals 2023 | 	22 Sept -  23 Sept. 2023	| Online	| Free 	| https://asisctf.com/|
